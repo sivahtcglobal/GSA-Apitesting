@@ -1,0 +1,15 @@
+{
+  "id": "06442719-64f7-40bb-b771-6c4624a511db",
+  "name": "Dev Environment",
+  "values": [
+    {
+      "key": "URL",
+      "value": "searchdev.esri.com",
+      "description": "",
+      "enabled": true
+    }
+  ],
+  "_postman_variable_scope": "environment",
+  "_postman_exported_at": "2018-09-04T11:51:23.613Z",
+  "_postman_exported_using": "Postman/6.2.5"
+}
